@@ -57,3 +57,46 @@ La cámara cambia según la zona:
 | ⬇️ Fosa | Transición | Lleva a la zona profunda |
 
 **Referencia visual:** estilo de cámara lateral de *Crash Bandicoot*.
+
+
+---
+
+## 🎥 Sección 2: Túnel 1
+
+**Cámara:** 🎥 Atrás (detrás del submarino). El jugador avanza hacia el fondo de la pantalla.
+**Objetivo:** atravesar el túnel esquivando redes, trampas y monstruos.
+
+### Controles en el túnel
+
+| Control | Acción |
+| --- | --- |
+| 🖱️ Rueda del mouse | Adelante: avanza · Atrás: retrocede |
+| **W / S** | Subir / bajar |
+| **A / D** | Moverse a los lados |
+
+> 💡 Si el jugador se queda quieto o se pierde, el juego vuelve a mostrar los controles en pantalla.
+
+### Contenido del túnel
+
+| Elemento | Tipo | Función |
+| --- | --- | --- |
+| 🕸️ Red 1 y Red 2 | Trampa | Redes fantasma que atrapan al submarino. Se esquivan cambiando de altura o de lado |
+| 🦠 Bacteria | Recompensa | Escondida detrás de una repisa, como premio por explorar |
+| 🍾 Monstruos y trampas de botellas | Peligro | Salen de las paredes con un **aviso naranja** |
+
+**Referencia visual:** niveles con cámara trasera de *Crash Bandicoot*.
+
+---
+
+### 🗜️ Obstáculo: Compactadora de basura
+
+Dos bloques de **plástico compactado** se abren y se cierran con ritmo en medio del pasaje.
+
+| Estado | Duración | Qué pasa |
+| --- | --- | --- |
+| 🟢 Abierto | 2 s | El submarino puede pasar. La **linterna** ayuda a ver el hueco |
+| 🔴 Aviso | 0.5 s | Los bloques brillan en rojo antes de cerrarse |
+| ⛔ Cerrado | — | Si el submarino queda atrapado, recibe daño, pierde una vida y vuelve al inicio del obstáculo |
+
+> ⏱️ Es un **obstáculo de timing**: el jugador debe observar el ritmo y cruzar en el momento justo.
+> También puede usar el **Dash** para pasar más rápido.
