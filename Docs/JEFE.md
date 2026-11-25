@@ -44,3 +44,57 @@ representa limpiar el mar, que es el mensaje central del **ODS 14: Vida Submarin
 | 💨 Dash | Esquivar ataques rápidos |
 | 🔫 Disparo doble | Hacer más daño |
 | 🫧 Escudo de Burbujas (tecla 3) | Protegerse en los ataques más fuertes |
+
+
+
+---
+
+## ⚔️ Fases y ataques
+
+> La vida del Iceberg se divide en 3 partes. Al bajar cada tercio, cambia de fase
+> y se vuelve más agresivo. Los valores exactos de vida y daño se ajustan en el
+> balance final (semana 4).
+
+### 🟢 Fase 1 — Lluvia de basura (vida 100% → 66%)
+
+El Iceberg sacude su cima y deja caer basura desde arriba.
+
+| Ataque | Cómo funciona | Cómo esquivarlo |
+| --- | --- | --- |
+| 🍾 Lluvia de botellas | Caen botellas y latas desde el techo | Una **sombra naranja** marca dónde caerán: moverse a un lado |
+
+**Qué aprende el jugador:** observar los avisos y moverse sin dejar de disparar.
+
+### 🟡 Fase 2 — Tentáculos de red (vida 66% → 33%)
+
+El Iceberg saca **tentáculos hechos de redes de pesca** desde el suelo y las paredes.
+
+| Ataque | Cómo funciona | Cómo esquivarlo |
+| --- | --- | --- |
+| 🕸️ Tentáculo de golpe | Sale un tentáculo y golpea en línea recta | **Aviso naranja** antes de salir: usar el **Dash** |
+| 🍾 Lluvia de botellas | Sigue cayendo basura, pero menos seguido | Igual que en la fase 1 |
+
+**Qué aprende el jugador:** combinar el Dash con el movimiento.
+
+### 🔴 Fase 3 — Furia del Iceberg (vida 33% → 0%)
+
+El Iceberg usa todo a la vez y más rápido.
+
+| Ataque | Cómo funciona | Cómo esquivarlo |
+| --- | --- | --- |
+| 🍾 Lluvia rápida | Más botellas y con menos tiempo de aviso | Moverse constantemente |
+| 🕸️ Doble tentáculo | Salen dos tentáculos al mismo tiempo | Dash en el momento justo |
+| 🫧 Ataque combinado | Lluvia y tentáculos juntos | Activar el **Escudo de Burbujas (tecla 3)** |
+
+**Qué aprende el jugador:** usar en el momento correcto todas las habilidades que consiguió.
+
+---
+
+## 🏆 Al vencer al Iceberg
+
+1. El Iceberg se desarma en pedazos de plástico que se hunden y desaparecen.
+2. El agua de la sala se vuelve **clara y azul**.
+3. Aparecen los animales del viaje (tortuga, pingüino y mero) para agradecer.
+4. Mensaje final en pantalla:
+   > 🌊 **"El mar se puede recuperar si dejamos de llenarlo de plástico."**
+5. Se abren la compuerta y los créditos.
